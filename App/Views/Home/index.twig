@@ -1,0 +1,17 @@
+{{ header }}
+<link rel="{{ css }}">
+<a href="{{ css }}">sdsd</a>
+<a href="" xmlns="">Home</a>
+<a href="posts/">Posts</a>
+<h1>Welcome </h1>
+<p>Hello from the view {{name}}</p>
+<h2 class="text-center">job {{job}} </h2>
+<div class="jumbotron">sds</div>
+<ul class="breadcrumb">
+
+    {% for breadcrumb in post %}
+        <li><a href="{{ breadcrumb.id }}">{{ breadcrumb.ip }}</a></li>
+    {% endfor %}
+</ul>
+</body>
+</html>

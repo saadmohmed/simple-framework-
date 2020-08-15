@@ -1,0 +1,948 @@
+[09-Feb-2020 12:29:38 UTC] PHP Warning:  require(../core/Router.php): failed to open stream: No such file or directory in /home4/developer3holol/public_html/buildmvc/index.php on line 5
+[09-Feb-2020 12:29:38 UTC] PHP Fatal error:  require(): Failed opening required '../core/Router.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home4/developer3holol/public_html/buildmvc/index.php on line 5
+[09-Feb-2020 12:29:40 UTC] PHP Warning:  require(../core/Router.php): failed to open stream: No such file or directory in /home4/developer3holol/public_html/buildmvc/index.php on line 5
+[09-Feb-2020 12:29:40 UTC] PHP Fatal error:  require(): Failed opening required '../core/Router.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home4/developer3holol/public_html/buildmvc/index.php on line 5
+[09-Feb-2020 12:29:48 UTC] PHP Warning:  require(../core/Router.php): failed to open stream: No such file or directory in /home4/developer3holol/public_html/buildmvc/index.php on line 5
+[09-Feb-2020 12:29:48 UTC] PHP Fatal error:  require(): Failed opening required '../core/Router.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home4/developer3holol/public_html/buildmvc/index.php on line 5
+[09-Feb-2020 12:29:50 UTC] PHP Warning:  require(../core/Router.php): failed to open stream: No such file or directory in /home4/developer3holol/public_html/buildmvc/index.php on line 5
+[09-Feb-2020 12:29:50 UTC] PHP Fatal error:  require(): Failed opening required '../core/Router.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home4/developer3holol/public_html/buildmvc/index.php on line 5
+[09-Feb-2020 12:29:51 UTC] PHP Warning:  require(../core/Router.php): failed to open stream: No such file or directory in /home4/developer3holol/public_html/buildmvc/index.php on line 5
+[09-Feb-2020 12:29:51 UTC] PHP Fatal error:  require(): Failed opening required '../core/Router.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home4/developer3holol/public_html/buildmvc/index.php on line 5
+[09-Feb-2020 12:30:05 UTC] PHP Warning:  require(../core/Router.php): failed to open stream: No such file or directory in /home4/developer3holol/public_html/buildmvc/index.php on line 5
+[09-Feb-2020 12:30:05 UTC] PHP Fatal error:  require(): Failed opening required '../core/Router.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home4/developer3holol/public_html/buildmvc/index.php on line 5
+[09-Feb-2020 12:30:07 UTC] PHP Warning:  require(../core/Router.php): failed to open stream: No such file or directory in /home4/developer3holol/public_html/buildmvc/index.php on line 5
+[09-Feb-2020 12:30:07 UTC] PHP Fatal error:  require(): Failed opening required '../core/Router.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home4/developer3holol/public_html/buildmvc/index.php on line 5
+[09-Feb-2020 12:30:08 UTC] PHP Warning:  require(../core/Router.php): failed to open stream: No such file or directory in /home4/developer3holol/public_html/buildmvc/index.php on line 5
+[09-Feb-2020 12:30:08 UTC] PHP Fatal error:  require(): Failed opening required '../core/Router.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home4/developer3holol/public_html/buildmvc/index.php on line 5
+[09-Feb-2020 12:30:23 UTC] PHP Warning:  require(../core/Router.php): failed to open stream: No such file or directory in /home4/developer3holol/public_html/buildmvc/index.php on line 5
+[09-Feb-2020 12:30:23 UTC] PHP Fatal error:  require(): Failed opening required '../core/Router.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home4/developer3holol/public_html/buildmvc/index.php on line 5
+[09-Feb-2020 12:30:25 UTC] PHP Warning:  require(../core/Router.php): failed to open stream: No such file or directory in /home4/developer3holol/public_html/buildmvc/index.php on line 5
+[09-Feb-2020 12:30:25 UTC] PHP Fatal error:  require(): Failed opening required '../core/Router.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home4/developer3holol/public_html/buildmvc/index.php on line 5
+[09-Feb-2020 12:30:25 UTC] PHP Warning:  require(../core/Router.php): failed to open stream: No such file or directory in /home4/developer3holol/public_html/buildmvc/index.php on line 5
+[09-Feb-2020 12:30:25 UTC] PHP Fatal error:  require(): Failed opening required '../core/Router.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home4/developer3holol/public_html/buildmvc/index.php on line 5
+[09-Feb-2020 12:30:43 UTC] PHP Warning:  require(../core/Router.php): failed to open stream: No such file or directory in /home4/developer3holol/public_html/buildmvc/index.php on line 3
+[09-Feb-2020 12:30:43 UTC] PHP Fatal error:  require(): Failed opening required '../core/Router.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home4/developer3holol/public_html/buildmvc/index.php on line 3
+[09-Feb-2020 12:30:46 UTC] PHP Warning:  require(../core/Router.php): failed to open stream: No such file or directory in /home4/developer3holol/public_html/buildmvc/index.php on line 3
+[09-Feb-2020 12:30:46 UTC] PHP Fatal error:  require(): Failed opening required '../core/Router.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home4/developer3holol/public_html/buildmvc/index.php on line 3
+[09-Feb-2020 12:30:50 UTC] PHP Warning:  require(../core/Router.php): failed to open stream: No such file or directory in /home4/developer3holol/public_html/buildmvc/index.php on line 3
+[09-Feb-2020 12:30:50 UTC] PHP Fatal error:  require(): Failed opening required '../core/Router.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home4/developer3holol/public_html/buildmvc/index.php on line 3
+[09-Feb-2020 12:30:51 UTC] PHP Warning:  require(../core/Router.php): failed to open stream: No such file or directory in /home4/developer3holol/public_html/buildmvc/index.php on line 3
+[09-Feb-2020 12:30:51 UTC] PHP Fatal error:  require(): Failed opening required '../core/Router.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home4/developer3holol/public_html/buildmvc/index.php on line 3
+[09-Feb-2020 12:30:52 UTC] PHP Warning:  require(../core/Router.php): failed to open stream: No such file or directory in /home4/developer3holol/public_html/buildmvc/index.php on line 3
+[09-Feb-2020 12:30:52 UTC] PHP Fatal error:  require(): Failed opening required '../core/Router.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home4/developer3holol/public_html/buildmvc/index.php on line 3
+[09-Feb-2020 12:30:53 UTC] PHP Warning:  require(../core/Router.php): failed to open stream: No such file or directory in /home4/developer3holol/public_html/buildmvc/index.php on line 3
+[09-Feb-2020 12:30:53 UTC] PHP Fatal error:  require(): Failed opening required '../core/Router.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home4/developer3holol/public_html/buildmvc/index.php on line 3
+[09-Feb-2020 13:27:36 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home4/developer3holol/public_html/buildmvc/index.php on line 17
+[09-Feb-2020 13:27:39 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home4/developer3holol/public_html/buildmvc/index.php on line 17
+[09-Feb-2020 13:28:02 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home4/developer3holol/public_html/buildmvc/index.php on line 17
+[09-Feb-2020 13:28:21 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home4/developer3holol/public_html/buildmvc/index.php on line 17
+[09-Feb-2020 13:58:01 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Router::add(), 1 passed in /home4/developer3holol/public_html/buildmvc/index.php on line 12 and exactly 2 expected in /home4/developer3holol/public_html/buildmvc/core/Router.php:26
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/index.php(12): Router->add('{controller}/{a...')
+#1 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/core/Router.php on line 26
+[09-Feb-2020 14:41:35 UTC] PHP Recoverable fatal error:  Object of class Posts could not be converted to string in /home4/developer3holol/public_html/buildmvc/core/Router.php on line 87
+[09-Feb-2020 15:10:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 7
+[09-Feb-2020 15:11:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 7
+[09-Feb-2020 15:15:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 17
+[09-Feb-2020 15:18:13 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/core/Router.php on line 81
+[09-Feb-2020 15:19:50 UTC] PHP Fatal error:  Uncaught Error: Class 'core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 17
+[09-Feb-2020 15:21:29 UTC] PHP Fatal error:  Uncaught Error: Class 'core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 17
+[09-Feb-2020 15:21:32 UTC] PHP Fatal error:  Uncaught Error: Class 'core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 17
+[09-Feb-2020 15:21:34 UTC] PHP Fatal error:  Uncaught Error: Class 'core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 17
+[09-Feb-2020 15:21:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 17
+[09-Feb-2020 15:22:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 17
+[09-Feb-2020 15:22:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 17
+[09-Feb-2020 15:23:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 17
+[09-Feb-2020 15:24:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 18
+[09-Feb-2020 15:24:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 18
+[09-Feb-2020 15:24:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 18
+[09-Feb-2020 15:24:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 18
+[09-Feb-2020 15:24:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 18
+[09-Feb-2020 15:24:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 18
+[09-Feb-2020 15:26:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 18
+[09-Feb-2020 15:26:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 18
+[09-Feb-2020 15:26:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 18
+[09-Feb-2020 15:26:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 18
+[09-Feb-2020 15:27:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 18
+[09-Feb-2020 15:27:57 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:28:09 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:29:21 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:29:24 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:29:26 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:29:53 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:29:56 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:29:58 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:30:00 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:32:40 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:33:43 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:33:51 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:33:54 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:34:31 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:34:33 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:34:35 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:36:05 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:36:08 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:36:10 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:36:11 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:36:29 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:37:03 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:37:06 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:37:08 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:37:11 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:37:23 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:38:34 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:38:38 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:38:57 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:40:12 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:43:56 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:46:16 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:46:36 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:47:33 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:47:36 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:48:21 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[09-Feb-2020 15:49:45 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 81
+[10-Feb-2020 08:33:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 22
+[10-Feb-2020 08:36:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 22
+[10-Feb-2020 08:36:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 22
+[10-Feb-2020 08:36:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 22
+[10-Feb-2020 08:36:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 22
+[10-Feb-2020 08:36:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 22
+[10-Feb-2020 08:36:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 22
+[10-Feb-2020 08:37:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 22
+[10-Feb-2020 08:51:23 UTC] PHP Fatal error:  Class 'Core\Controller' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 3
+[10-Feb-2020 08:53:30 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Core\Controller::__construct(), 0 passed in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 89 and exactly 1 expected in /home4/developer3holol/public_html/buildmvc/Core/Controller.php:23
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(89): Core\Controller->__construct()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(37): core\Router->dispatch('posts/add')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/Core/Controller.php on line 23
+[10-Feb-2020 08:53:41 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Core\Controller::__construct(), 0 passed in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 89 and exactly 1 expected in /home4/developer3holol/public_html/buildmvc/Core/Controller.php:23
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(89): Core\Controller->__construct()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(37): core\Router->dispatch('posts/add')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/Core/Controller.php on line 23
+[10-Feb-2020 08:53:46 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Core\Controller::__construct(), 0 passed in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 89 and exactly 1 expected in /home4/developer3holol/public_html/buildmvc/Core/Controller.php:23
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(89): Core\Controller->__construct()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(37): core\Router->dispatch('posts/add')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/Core/Controller.php on line 23
+[10-Feb-2020 08:53:48 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Core\Controller::__construct(), 0 passed in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 89 and exactly 1 expected in /home4/developer3holol/public_html/buildmvc/Core/Controller.php:23
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(89): Core\Controller->__construct()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(37): core\Router->dispatch('posts/add')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/Core/Controller.php on line 23
+[10-Feb-2020 08:53:49 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Core\Controller::__construct(), 0 passed in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 89 and exactly 1 expected in /home4/developer3holol/public_html/buildmvc/Core/Controller.php:23
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(89): Core\Controller->__construct()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(37): core\Router->dispatch('posts/add')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/Core/Controller.php on line 23
+[10-Feb-2020 08:53:49 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Core\Controller::__construct(), 0 passed in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 89 and exactly 1 expected in /home4/developer3holol/public_html/buildmvc/Core/Controller.php:23
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(89): Core\Controller->__construct()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(37): core\Router->dispatch('posts/add')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/Core/Controller.php on line 23
+[10-Feb-2020 08:53:50 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Core\Controller::__construct(), 0 passed in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 89 and exactly 1 expected in /home4/developer3holol/public_html/buildmvc/Core/Controller.php:23
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(89): Core\Controller->__construct()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(37): core\Router->dispatch('posts/add')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/Core/Controller.php on line 23
+[10-Feb-2020 08:53:51 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Core\Controller::__construct(), 0 passed in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 89 and exactly 1 expected in /home4/developer3holol/public_html/buildmvc/Core/Controller.php:23
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(89): Core\Controller->__construct()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(37): core\Router->dispatch('posts/add')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/Core/Controller.php on line 23
+[10-Feb-2020 08:53:51 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Core\Controller::__construct(), 0 passed in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 89 and exactly 1 expected in /home4/developer3holol/public_html/buildmvc/Core/Controller.php:23
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(89): Core\Controller->__construct()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(37): core\Router->dispatch('posts/add')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/Core/Controller.php on line 23
+[10-Feb-2020 08:53:52 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Core\Controller::__construct(), 0 passed in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 89 and exactly 1 expected in /home4/developer3holol/public_html/buildmvc/Core/Controller.php:23
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(89): Core\Controller->__construct()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(37): core\Router->dispatch('posts/add')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/Core/Controller.php on line 23
+[10-Feb-2020 08:53:53 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Core\Controller::__construct(), 0 passed in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 89 and exactly 1 expected in /home4/developer3holol/public_html/buildmvc/Core/Controller.php:23
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(89): Core\Controller->__construct()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(37): core\Router->dispatch('posts/add')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/Core/Controller.php on line 23
+[10-Feb-2020 08:53:54 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Core\Controller::__construct(), 0 passed in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 89 and exactly 1 expected in /home4/developer3holol/public_html/buildmvc/Core/Controller.php:23
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(89): Core\Controller->__construct()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(37): core\Router->dispatch('posts/add')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/Core/Controller.php on line 23
+[10-Feb-2020 08:53:55 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Core\Controller::__construct(), 0 passed in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 89 and exactly 1 expected in /home4/developer3holol/public_html/buildmvc/Core/Controller.php:23
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(89): Core\Controller->__construct()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(37): core\Router->dispatch('posts/add')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/Core/Controller.php on line 23
+[10-Feb-2020 08:53:56 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Core\Controller::__construct(), 0 passed in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 89 and exactly 1 expected in /home4/developer3holol/public_html/buildmvc/Core/Controller.php:23
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(89): Core\Controller->__construct()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(37): core\Router->dispatch('posts/add')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/Core/Controller.php on line 23
+[10-Feb-2020 08:55:04 UTC] PHP Notice:  Undefined index: id in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 5
+[10-Feb-2020 09:11:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 22
+[10-Feb-2020 09:14:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 24
+[10-Feb-2020 09:14:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 24
+[10-Feb-2020 09:14:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 24
+[10-Feb-2020 09:14:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 24
+[10-Feb-2020 09:15:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 24
+[10-Feb-2020 09:15:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 24
+[10-Feb-2020 09:15:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 24
+[10-Feb-2020 09:15:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 24
+[10-Feb-2020 09:15:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 24
+[10-Feb-2020 09:15:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 24
+[10-Feb-2020 09:15:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 24
+[10-Feb-2020 09:15:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 24
+[10-Feb-2020 09:16:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 24
+[10-Feb-2020 09:16:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 24
+[10-Feb-2020 09:16:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 24
+[10-Feb-2020 09:16:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 24
+[10-Feb-2020 09:17:24 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 83
+[10-Feb-2020 09:17:29 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 83
+[10-Feb-2020 09:17:34 UTC] PHP Notice:  Undefined index: id in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 5
+[10-Feb-2020 09:17:41 UTC] PHP Notice:  Undefined index: id in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 5
+[10-Feb-2020 09:18:35 UTC] PHP Notice:  Undefined index: id in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 5
+[10-Feb-2020 09:18:37 UTC] PHP Notice:  Undefined index: id in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 5
+[10-Feb-2020 09:18:38 UTC] PHP Notice:  Undefined index: id in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 5
+[10-Feb-2020 09:18:38 UTC] PHP Notice:  Undefined index: id in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 5
+[10-Feb-2020 09:18:39 UTC] PHP Notice:  Undefined index: id in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 5
+[10-Feb-2020 09:18:40 UTC] PHP Notice:  Undefined index: id in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 5
+[10-Feb-2020 09:18:40 UTC] PHP Notice:  Undefined index: id in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 5
+[10-Feb-2020 09:18:40 UTC] PHP Notice:  Undefined index: id in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 5
+[10-Feb-2020 09:21:10 UTC] PHP Warning:  require(App/Home.php): failed to open stream: No such file or directory in /home4/developer3holol/public_html/buildmvc/index.php on line 9
+[10-Feb-2020 09:21:10 UTC] PHP Fatal error:  require(): Failed opening required 'App/Home.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home4/developer3holol/public_html/buildmvc/index.php on line 9
+[10-Feb-2020 09:21:42 UTC] PHP Fatal error:  Class 'Core\Controller' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Home.php on line 4
+[10-Feb-2020 09:22:17 UTC] PHP Fatal error:  Class 'Core\Controller' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Home.php on line 4
+[10-Feb-2020 09:22:22 UTC] PHP Fatal error:  Class 'Core\Controller' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Home.php on line 4
+[10-Feb-2020 09:22:41 UTC] PHP Fatal error:  Class 'Core\Controller' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 3
+[10-Feb-2020 09:22:53 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 83
+[10-Feb-2020 09:23:30 UTC] PHP Fatal error:  Class 'Core\Controller' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Home.php on line 4
+[10-Feb-2020 09:23:43 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 83
+[10-Feb-2020 09:23:45 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 83
+[10-Feb-2020 09:23:45 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 83
+[10-Feb-2020 09:23:46 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 83
+[10-Feb-2020 09:23:47 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 83
+[10-Feb-2020 09:23:47 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 83
+[10-Feb-2020 09:23:47 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 83
+[10-Feb-2020 09:23:48 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 83
+[10-Feb-2020 09:24:53 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 84
+[10-Feb-2020 09:24:55 UTC] PHP Notice:  Undefined index: controller in /home4/developer3holol/public_html/buildmvc/Core/Router.php on line 84
+[10-Feb-2020 09:25:41 UTC] PHP Notice:  Undefined index: id in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 5
+[10-Feb-2020 09:25:50 UTC] PHP Notice:  Undefined property: App\Controllers\Posts::$routes_params in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 11
+[10-Feb-2020 09:27:40 UTC] PHP Notice:  Undefined property: App\Controllers\Posts::$route_params in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 11
+[10-Feb-2020 09:27:46 UTC] PHP Notice:  Undefined property: App\Controllers\Posts::$route_params in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 11
+[10-Feb-2020 09:27:47 UTC] PHP Notice:  Undefined property: App\Controllers\Posts::$route_params in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 11
+[10-Feb-2020 09:27:48 UTC] PHP Notice:  Undefined property: App\Controllers\Posts::$route_params in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 11
+[10-Feb-2020 10:12:21 UTC] PHP Notice:  Undefined index: id in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 5
+[11-Feb-2020 08:49:06 UTC] PHP Notice:  Undefined index: id in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 5
+[11-Feb-2020 11:29:58 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Controllers\View' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php:6
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Posts->index()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(38): Core\Router->dispatch('posts/')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 6
+[11-Feb-2020 11:30:01 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Controllers\View' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php:6
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Posts->index()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(38): Core\Router->dispatch('posts/')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 6
+[11-Feb-2020 11:30:33 UTC] PHP Notice:  Undefined index: id in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 10
+[11-Feb-2020 11:30:38 UTC] PHP Notice:  Undefined index: id in /home4/developer3holol/public_html/buildmvc/Core/Controller.php on line 31
+[11-Feb-2020 11:57:43 UTC] PHP Warning:  require_once(/home4/developer3holol/public_htmlvendor/twig/autoload.php): failed to open stream: No such file or directory in /home4/developer3holol/public_html/buildmvc/index.php on line 8
+[11-Feb-2020 11:57:43 UTC] PHP Fatal error:  require_once(): Failed opening required '/home4/developer3holol/public_htmlvendor/twig/autoload.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home4/developer3holol/public_html/buildmvc/index.php on line 8
+[11-Feb-2020 11:58:11 UTC] PHP Warning:  require_once(/home4/developer3holol/public_html/buildmvc/vendor/twig/composer/autoload_real.php): failed to open stream: No such file or directory in /home4/developer3holol/public_html/buildmvc/vendor/twig/autoload.php on line 5
+[11-Feb-2020 11:58:11 UTC] PHP Fatal error:  require_once(): Failed opening required '/home4/developer3holol/public_html/buildmvc/vendor/twig/composer/autoload_real.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home4/developer3holol/public_html/buildmvc/vendor/twig/autoload.php on line 5
+[11-Feb-2020 12:03:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Core\View::render() in /home4/developer3holol/public_html/buildmvc/App/Controllers/Home.php:12
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Home->index()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(41): Core\Router->dispatch('')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/App/Controllers/Home.php on line 12
+[11-Feb-2020 12:03:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig_Loader_Filesystem' not found in /home4/developer3holol/public_html/buildmvc/Core/View.php:29
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/App/Controllers/Home.php(12): Core\View::renderTemplate('Home/index.php', Array)
+#1 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Home->index()
+#2 /home4/developer3holol/public_html/buildmvc/index.php(41): Core\Router->dispatch('')
+#3 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/Core/View.php on line 29
+[11-Feb-2020 12:05:13 UTC] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "Home/index.twig" (looked into: ./App/Views). in /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Loader/FilesystemLoader.php:227
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Loader/FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('Home/index.twig')
+#1 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Environment.php(261): Twig\Loader\FilesystemLoader->getCacheKey('Home/index.twig')
+#2 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Environment.php(309): Twig\Environment->getTemplateClass('Home/index.twig')
+#3 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Environment.php(277): Twig\Environment->load('Home/index.twig')
+#4 /home4/developer3holol/public_html/buildmvc/Core/View.php(32): Twig\Environment->render('Home/index.twig', Array)
+#5 /home4/developer3holol/public_html/buildmvc/App/Controllers/Home.php(12) in /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Loader/FilesystemLoader.php on line 227
+[11-Feb-2020 12:27:27 UTC] PHP Deprecated:  Non-static method Core\Db::query() should not be called statically in /home4/developer3holol/public_html/buildmvc/App/Controllers/Home.php on line 13
+[11-Feb-2020 12:27:27 UTC] PHP Notice:  Undefined variable: host in /home4/developer3holol/public_html/buildmvc/Core/Db.php on line 20
+[11-Feb-2020 12:27:27 UTC] PHP Notice:  Undefined variable: dbname in /home4/developer3holol/public_html/buildmvc/Core/Db.php on line 20
+[11-Feb-2020 12:27:27 UTC] PHP Notice:  Undefined variable: username in /home4/developer3holol/public_html/buildmvc/Core/Db.php on line 20
+[11-Feb-2020 12:27:27 UTC] PHP Notice:  Undefined variable: password in /home4/developer3holol/public_html/buildmvc/Core/Db.php on line 20
+[11-Feb-2020 12:27:51 UTC] PHP Notice:  Undefined variable: host in /home4/developer3holol/public_html/buildmvc/Core/Db.php on line 20
+[11-Feb-2020 12:27:51 UTC] PHP Notice:  Undefined variable: dbname in /home4/developer3holol/public_html/buildmvc/Core/Db.php on line 20
+[11-Feb-2020 12:27:51 UTC] PHP Notice:  Undefined variable: username in /home4/developer3holol/public_html/buildmvc/Core/Db.php on line 20
+[11-Feb-2020 12:27:51 UTC] PHP Notice:  Undefined variable: password in /home4/developer3holol/public_html/buildmvc/Core/Db.php on line 20
+[11-Feb-2020 12:31:38 UTC] PHP Fatal error:  Uncaught Twig\Error\SyntaxError: Unknown "foreach" tag. in /home4/developer3holol/public_html/buildmvc/App/Views/Home/index.twig:14
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Parser.php(95): Twig\Parser->subparse(NULL, false)
+#1 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Environment.php(479): Twig\Parser->parse(Object(Twig\TokenStream))
+#2 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Environment.php(507): Twig\Environment->parse(Object(Twig\TokenStream))
+#3 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Environment.php(348): Twig\Environment->compileSource(Object(Twig\Source))
+#4 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Environment.php(309): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.twig')
+#5 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Environment.php(277): Twig\Environment->load('Home/index.twig')
+#6 /home4/develope in /home4/developer3holol/public_html/buildmvc/App/Views/Home/index.twig on line 14
+[11-Feb-2020 12:33:14 UTC] PHP Fatal error:  Uncaught Twig\Error\SyntaxError: Only variables can be assigned to. Unexpected token "punctuation" of value "(" ("name" expected). in /home4/developer3holol/public_html/buildmvc/App/Views/Home/index.twig:14
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/ExpressionParser.php(638): Twig\TokenStream->expect(5, NULL, 'Only variables ...')
+#1 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/TokenParser/ForTokenParser.php(35): Twig\ExpressionParser->parseAssignmentExpression()
+#2 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Parser.php(182): Twig\TokenParser\ForTokenParser->parse(Object(Twig\Token))
+#3 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Parser.php(95): Twig\Parser->subparse(NULL, false)
+#4 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Environment.php(479): Twig\Parser->parse(Object(Twig\TokenStream))
+#5 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/En in /home4/developer3holol/public_html/buildmvc/App/Views/Home/index.twig on line 14
+[11-Feb-2020 12:34:35 UTC] PHP Fatal error:  Uncaught Twig\Error\SyntaxError: Only variables can be assigned to. Unexpected token "punctuation" of value "(" ("name" expected). in /home4/developer3holol/public_html/buildmvc/App/Views/Home/index.twig:14
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/ExpressionParser.php(638): Twig\TokenStream->expect(5, NULL, 'Only variables ...')
+#1 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/TokenParser/ForTokenParser.php(35): Twig\ExpressionParser->parseAssignmentExpression()
+#2 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Parser.php(182): Twig\TokenParser\ForTokenParser->parse(Object(Twig\Token))
+#3 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Parser.php(95): Twig\Parser->subparse(NULL, false)
+#4 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Environment.php(479): Twig\Parser->parse(Object(Twig\TokenStream))
+#5 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/En in /home4/developer3holol/public_html/buildmvc/App/Views/Home/index.twig on line 14
+[11-Feb-2020 12:35:03 UTC] PHP Fatal error:  Uncaught Twig\Error\SyntaxError: Only variables can be assigned to. Unexpected token "punctuation" of value "(" ("name" expected). in /home4/developer3holol/public_html/buildmvc/App/Views/Home/index.twig:14
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/ExpressionParser.php(638): Twig\TokenStream->expect(5, NULL, 'Only variables ...')
+#1 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/TokenParser/ForTokenParser.php(35): Twig\ExpressionParser->parseAssignmentExpression()
+#2 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Parser.php(182): Twig\TokenParser\ForTokenParser->parse(Object(Twig\Token))
+#3 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Parser.php(95): Twig\Parser->subparse(NULL, false)
+#4 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Environment.php(479): Twig\Parser->parse(Object(Twig\TokenStream))
+#5 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/En in /home4/developer3holol/public_html/buildmvc/App/Views/Home/index.twig on line 14
+[11-Feb-2020 12:35:05 UTC] PHP Fatal error:  Uncaught Twig\Error\SyntaxError: Only variables can be assigned to. Unexpected token "punctuation" of value "(" ("name" expected). in /home4/developer3holol/public_html/buildmvc/App/Views/Home/index.twig:14
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/ExpressionParser.php(638): Twig\TokenStream->expect(5, NULL, 'Only variables ...')
+#1 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/TokenParser/ForTokenParser.php(35): Twig\ExpressionParser->parseAssignmentExpression()
+#2 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Parser.php(182): Twig\TokenParser\ForTokenParser->parse(Object(Twig\Token))
+#3 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Parser.php(95): Twig\Parser->subparse(NULL, false)
+#4 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Environment.php(479): Twig\Parser->parse(Object(Twig\TokenStream))
+#5 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/En in /home4/developer3holol/public_html/buildmvc/App/Views/Home/index.twig on line 14
+[11-Feb-2020 12:35:12 UTC] PHP Fatal error:  Uncaught Twig\Error\SyntaxError: Only variables can be assigned to. Unexpected token "punctuation" of value "(" ("name" expected). in /home4/developer3holol/public_html/buildmvc/App/Views/Home/index.twig:14
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/ExpressionParser.php(638): Twig\TokenStream->expect(5, NULL, 'Only variables ...')
+#1 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/TokenParser/ForTokenParser.php(35): Twig\ExpressionParser->parseAssignmentExpression()
+#2 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Parser.php(182): Twig\TokenParser\ForTokenParser->parse(Object(Twig\Token))
+#3 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Parser.php(95): Twig\Parser->subparse(NULL, false)
+#4 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Environment.php(479): Twig\Parser->parse(Object(Twig\TokenStream))
+#5 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/En in /home4/developer3holol/public_html/buildmvc/App/Views/Home/index.twig on line 14
+[11-Feb-2020 12:35:14 UTC] PHP Fatal error:  Uncaught Twig\Error\SyntaxError: Only variables can be assigned to. Unexpected token "punctuation" of value "(" ("name" expected). in /home4/developer3holol/public_html/buildmvc/App/Views/Home/index.twig:14
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/ExpressionParser.php(638): Twig\TokenStream->expect(5, NULL, 'Only variables ...')
+#1 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/TokenParser/ForTokenParser.php(35): Twig\ExpressionParser->parseAssignmentExpression()
+#2 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Parser.php(182): Twig\TokenParser\ForTokenParser->parse(Object(Twig\Token))
+#3 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Parser.php(95): Twig\Parser->subparse(NULL, false)
+#4 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Environment.php(479): Twig\Parser->parse(Object(Twig\TokenStream))
+#5 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/En in /home4/developer3holol/public_html/buildmvc/App/Views/Home/index.twig on line 14
+[11-Feb-2020 12:35:14 UTC] PHP Fatal error:  Uncaught Twig\Error\SyntaxError: Only variables can be assigned to. Unexpected token "punctuation" of value "(" ("name" expected). in /home4/developer3holol/public_html/buildmvc/App/Views/Home/index.twig:14
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/ExpressionParser.php(638): Twig\TokenStream->expect(5, NULL, 'Only variables ...')
+#1 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/TokenParser/ForTokenParser.php(35): Twig\ExpressionParser->parseAssignmentExpression()
+#2 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Parser.php(182): Twig\TokenParser\ForTokenParser->parse(Object(Twig\Token))
+#3 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Parser.php(95): Twig\Parser->subparse(NULL, false)
+#4 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Environment.php(479): Twig\Parser->parse(Object(Twig\TokenStream))
+#5 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/En in /home4/developer3holol/public_html/buildmvc/App/Views/Home/index.twig on line 14
+[11-Feb-2020 12:35:15 UTC] PHP Fatal error:  Uncaught Twig\Error\SyntaxError: Only variables can be assigned to. Unexpected token "punctuation" of value "(" ("name" expected). in /home4/developer3holol/public_html/buildmvc/App/Views/Home/index.twig:14
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/ExpressionParser.php(638): Twig\TokenStream->expect(5, NULL, 'Only variables ...')
+#1 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/TokenParser/ForTokenParser.php(35): Twig\ExpressionParser->parseAssignmentExpression()
+#2 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Parser.php(182): Twig\TokenParser\ForTokenParser->parse(Object(Twig\Token))
+#3 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Parser.php(95): Twig\Parser->subparse(NULL, false)
+#4 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Environment.php(479): Twig\Parser->parse(Object(Twig\TokenStream))
+#5 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/En in /home4/developer3holol/public_html/buildmvc/App/Views/Home/index.twig on line 14
+[11-Feb-2020 12:35:41 UTC] PHP Fatal error:  Uncaught Twig\Error\SyntaxError: Only variables can be assigned to. Unexpected token "punctuation" of value "(" ("name" expected). in /home4/developer3holol/public_html/buildmvc/App/Views/Home/index.twig:14
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/ExpressionParser.php(638): Twig\TokenStream->expect(5, NULL, 'Only variables ...')
+#1 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/TokenParser/ForTokenParser.php(35): Twig\ExpressionParser->parseAssignmentExpression()
+#2 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Parser.php(182): Twig\TokenParser\ForTokenParser->parse(Object(Twig\Token))
+#3 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Parser.php(95): Twig\Parser->subparse(NULL, false)
+#4 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Environment.php(479): Twig\Parser->parse(Object(Twig\TokenStream))
+#5 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/En in /home4/developer3holol/public_html/buildmvc/App/Views/Home/index.twig on line 14
+[11-Feb-2020 12:35:48 UTC] PHP Fatal error:  Uncaught Twig\Error\SyntaxError: Only variables can be assigned to. Unexpected token "punctuation" of value "(" ("name" expected). in /home4/developer3holol/public_html/buildmvc/App/Views/Home/index.twig:14
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/ExpressionParser.php(638): Twig\TokenStream->expect(5, NULL, 'Only variables ...')
+#1 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/TokenParser/ForTokenParser.php(35): Twig\ExpressionParser->parseAssignmentExpression()
+#2 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Parser.php(182): Twig\TokenParser\ForTokenParser->parse(Object(Twig\Token))
+#3 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Parser.php(95): Twig\Parser->subparse(NULL, false)
+#4 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/Environment.php(479): Twig\Parser->parse(Object(Twig\TokenStream))
+#5 /home4/developer3holol/public_html/buildmvc/vendor/twig/twig/twig/src/En in /home4/developer3holol/public_html/buildmvc/App/Views/Home/index.twig on line 14
+[11-Feb-2020 12:43:04 UTC] PHP Notice:  Undefined index: id in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 13
+[11-Feb-2020 12:43:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Models\PostsModel' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php:9
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Posts->index()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(41): Core\Router->dispatch('posts/')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 9
+[11-Feb-2020 12:44:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Models\PostsModel' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php:9
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Posts->index()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(41): Core\Router->dispatch('posts/')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 9
+[11-Feb-2020 12:45:16 UTC] PHP Fatal error:  Cannot declare class App\Controllers\Posts because the name is already in use in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 5
+[11-Feb-2020 12:45:57 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Controllers\PostsModel' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php:9
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Posts->index()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(41): Core\Router->dispatch('posts/')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 9
+[11-Feb-2020 12:46:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Models\Post' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php:9
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Posts->index()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(41): Core\Router->dispatch('posts/')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 9
+[11-Feb-2020 12:46:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Models\Post' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php:9
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Posts->index()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(41): Core\Router->dispatch('posts/')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 9
+[11-Feb-2020 12:46:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Models\Post' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php:9
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Posts->index()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(41): Core\Router->dispatch('posts/')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 9
+[11-Feb-2020 12:47:08 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Post' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php:9
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Posts->index()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(41): Core\Router->dispatch('posts/')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 9
+[11-Feb-2020 12:47:10 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Post' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php:9
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Posts->index()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(41): Core\Router->dispatch('posts/')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 9
+[11-Feb-2020 12:47:38 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Post' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php:9
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Posts->index()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(41): Core\Router->dispatch('posts/')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 9
+[11-Feb-2020 12:47:40 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Post' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php:9
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Posts->index()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(41): Core\Router->dispatch('posts/')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 9
+[11-Feb-2020 12:47:41 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Post' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php:9
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Posts->index()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(41): Core\Router->dispatch('posts/')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 9
+[11-Feb-2020 12:47:41 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Post' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php:9
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Posts->index()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(41): Core\Router->dispatch('posts/')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 9
+[11-Feb-2020 12:47:42 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Post' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php:9
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Posts->index()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(41): Core\Router->dispatch('posts/')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 9
+[11-Feb-2020 12:47:43 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Post' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php:9
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Posts->index()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(41): Core\Router->dispatch('posts/')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 9
+[11-Feb-2020 12:47:43 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Post' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php:9
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Posts->index()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(41): Core\Router->dispatch('posts/')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 9
+[11-Feb-2020 12:47:43 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Post' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php:9
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Posts->index()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(41): Core\Router->dispatch('posts/')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 9
+[11-Feb-2020 12:47:44 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Post' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php:9
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Posts->index()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(41): Core\Router->dispatch('posts/')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 9
+[11-Feb-2020 12:47:44 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Post' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php:9
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Posts->index()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(41): Core\Router->dispatch('posts/')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 9
+[11-Feb-2020 12:47:45 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Post' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php:9
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Posts->index()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(41): Core\Router->dispatch('posts/')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 9
+[11-Feb-2020 12:48:24 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Post' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php:9
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Posts->index()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(41): Core\Router->dispatch('posts/')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 9
+[11-Feb-2020 12:48:26 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Post' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php:9
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Posts->index()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(41): Core\Router->dispatch('posts/')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 9
+[11-Feb-2020 12:48:54 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Posts\Post' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php:9
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Posts->index()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(41): Core\Router->dispatch('posts/')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 9
+[11-Feb-2020 12:50:19 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Models\Post' not found in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php:9
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Posts->index()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(41): Core\Router->dispatch('posts/')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 9
+[11-Feb-2020 12:51:00 UTC] PHP Deprecated:  Non-static method App\Models\Post::getPosts() should not be called statically in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 9
+[11-Feb-2020 13:16:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'develope_ausfluee'@'localhost' (using password: YES) in /home4/developer3holol/public_html/buildmvc/Core/Db.php:21
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Db.php(21): PDO->__construct('mysql:host=loca...', 'develope_ausflu...', '(AFRdhK=DYvf')
+#1 /home4/developer3holol/public_html/buildmvc/App/Models/Post.php(6): Core\Db::getDB()
+#2 /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php(9): App\Models\Post::getPosts()
+#3 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Posts->index()
+#4 /home4/developer3holol/public_html/buildmvc/index.php(41): Core\Router->dispatch('posts/')
+#5 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/Core/Db.php on line 21
+[12-Feb-2020 08:36:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Db::query() in /home4/developer3holol/public_html/buildmvc/App/Controllers/Home.php:13
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Home->index()
+#1 /home4/developer3holol/public_html/buildmvc/index.php(41): Core\Router->dispatch('')
+#2 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/App/Controllers/Home.php on line 13
+[12-Feb-2020 08:36:25 UTC] PHP Notice:  Undefined index: id in /home4/developer3holol/public_html/buildmvc/App/Controllers/Posts.php on line 13
+[12-Feb-2020 10:38:42 UTC] PHP Warning:  set_error_handler() expects the argument (Core\Error::errorHandler) to be a valid callback in /home4/developer3holol/public_html/buildmvc/index.php on line 26
+[12-Feb-2020 11:01:54 UTC] PHP Warning:  Uncaught ErrorException: require_once(\App\Controllers\Header): failed to open stream: No such file or directory in /home4/developer3holol/public_html/buildmvc/Core/Controller.php:35
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Controller.php(35): Core\Error::errorHandler(2, 'require_once(\\A...', '/home4/develope...', 35, Array)
+#1 /home4/developer3holol/public_html/buildmvc/Core/Controller.php(35): require_once()
+#2 /home4/developer3holol/public_html/buildmvc/App/Controllers/Home.php(12): Core\Controller->loadController('\\App\\Controller...')
+#3 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Home->index()
+#4 /home4/developer3holol/public_html/buildmvc/index.php(44): Core\Router->dispatch('')
+#5 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/Core/Controller.php on line 35
+[12-Feb-2020 11:01:54 UTC] PHP Fatal error:  Core\Controller::loadController(): Failed opening required '\App\Controllers\Header' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home4/developer3holol/public_html/buildmvc/Core/Controller.php on line 35
+[12-Feb-2020 11:02:44 UTC] PHP Warning:  Uncaught ErrorException: require_once(Header.php): failed to open stream: No such file or directory in /home4/developer3holol/public_html/buildmvc/Core/Controller.php:35
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Controller.php(35): Core\Error::errorHandler(2, 'require_once(He...', '/home4/develope...', 35, Array)
+#1 /home4/developer3holol/public_html/buildmvc/Core/Controller.php(35): require_once()
+#2 /home4/developer3holol/public_html/buildmvc/App/Controllers/Home.php(12): Core\Controller->loadController('Header')
+#3 /home4/developer3holol/public_html/buildmvc/Core/Router.php(98): App\Controllers\Home->index()
+#4 /home4/developer3holol/public_html/buildmvc/index.php(44): Core\Router->dispatch('')
+#5 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/Core/Controller.php on line 35
+[12-Feb-2020 11:02:44 UTC] PHP Fatal error:  Core\Controller::loadController(): Failed opening required 'Header.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home4/developer3holol/public_html/buildmvc/Core/Controller.php on line 35
+[12-Feb-2020 11:17:16 UTC] PHP Warning:  Uncaught ErrorException: require_once(config.php): failed to open stream: No such file or directory in /home4/developer3holol/public_html/buildmvc/Core/Controller.php:3
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Controller.php(3): Core\Error::errorHandler(2, 'require_once(co...', '/home4/develope...', 3, Array)
+#1 /home4/developer3holol/public_html/buildmvc/Core/Controller.php(3): require_once()
+#2 /home4/developer3holol/public_html/buildmvc/index.php(22): require('/home4/develope...')
+#3 [internal function]: {closure}('Core\\Controller')
+#4 /home4/developer3holol/public_html/buildmvc/App/Controllers/Home.php(6): spl_autoload_call('Core\\Controller')
+#5 /home4/developer3holol/public_html/buildmvc/index.php(22): require('/home4/develope...')
+#6 [internal function]: {closure}('App\\Controllers...')
+#7 [internal function]: spl_autoload_call('App\\Controllers...')
+#8 /home4/developer3holol/public_html/buildmvc/Core/Router.php(88): class_exists('App\\Controllers...')
+#9 /home4/developer3holol in /home4/developer3holol/public_html/buildmvc/Core/Controller.php on line 3
+[12-Feb-2020 11:17:16 UTC] PHP Fatal error:  main(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home4/developer3holol/public_html/buildmvc/Core/Controller.php on line 3
+[12-Feb-2020 11:17:59 UTC] PHP Warning:  Uncaught ErrorException: require_once(./App/configh.php): failed to open stream: No such file or directory in /home4/developer3holol/public_html/buildmvc/Core/Controller.php:3
+Stack trace:
+#0 /home4/developer3holol/public_html/buildmvc/Core/Controller.php(3): Core\Error::errorHandler(2, 'require_once(./...', '/home4/develope...', 3, Array)
+#1 /home4/developer3holol/public_html/buildmvc/Core/Controller.php(3): require_once()
+#2 /home4/developer3holol/public_html/buildmvc/index.php(22): require('/home4/develope...')
+#3 [internal function]: {closure}('Core\\Controller')
+#4 /home4/developer3holol/public_html/buildmvc/App/Controllers/Home.php(6): spl_autoload_call('Core\\Controller')
+#5 /home4/developer3holol/public_html/buildmvc/index.php(22): require('/home4/develope...')
+#6 [internal function]: {closure}('App\\Controllers...')
+#7 [internal function]: spl_autoload_call('App\\Controllers...')
+#8 /home4/developer3holol/public_html/buildmvc/Core/Router.php(88): class_exists('App\\Controllers...')
+#9 /home4/develope in /home4/developer3holol/public_html/buildmvc/Core/Controller.php on line 3
+[12-Feb-2020 11:17:59 UTC] PHP Fatal error:  main(): Failed opening required './App/configh.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home4/developer3holol/public_html/buildmvc/Core/Controller.php on line 3
+[12-Feb-2020 11:27:48 UTC] PHP Warning:  set_error_handler() expects the argument (Core\Error::errorHandler) to be a valid callback in /home4/developer3holol/public_html/buildmvc/index.php on line 27
+[12-Feb-2020 11:27:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Cnfig' not found in /home4/developer3holol/public_html/buildmvc/index.php:15
+Stack trace:
+#0 [internal function]: {closure}('Cnfig')
+#1 /home4/developer3holol/public_html/buildmvc/index.php(15): spl_autoload_call('Cnfig')
+#2 [internal function]: {closure}('Core\\Error')
+#3 [internal function]: spl_autoload_call('Core\\Error')
+#4 /home4/developer3holol/public_html/buildmvc/index.php(27): set_error_handler('Core\\Error::err...')
+#5 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 15
+[12-Feb-2020 11:28:03 UTC] PHP Warning:  set_error_handler() expects the argument (Core\Error::errorHandler) to be a valid callback in /home4/developer3holol/public_html/buildmvc/index.php on line 27
+[12-Feb-2020 11:28:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home4/developer3holol/public_html/buildmvc/index.php:15
+Stack trace:
+#0 [internal function]: {closure}('Config')
+#1 /home4/developer3holol/public_html/buildmvc/index.php(15): spl_autoload_call('Config')
+#2 [internal function]: {closure}('Core\\Error')
+#3 [internal function]: spl_autoload_call('Core\\Error')
+#4 /home4/developer3holol/public_html/buildmvc/index.php(27): set_error_handler('Core\\Error::err...')
+#5 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 15
+[12-Feb-2020 11:28:30 UTC] PHP Warning:  set_error_handler() expects the argument (Core\Error::errorHandler) to be a valid callback in /home4/developer3holol/public_html/buildmvc/index.php on line 27
+[12-Feb-2020 11:28:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home4/developer3holol/public_html/buildmvc/index.php:15
+Stack trace:
+#0 [internal function]: {closure}('Config')
+#1 /home4/developer3holol/public_html/buildmvc/index.php(15): spl_autoload_call('Config')
+#2 [internal function]: {closure}('Core\\Error')
+#3 [internal function]: spl_autoload_call('Core\\Error')
+#4 /home4/developer3holol/public_html/buildmvc/index.php(27): set_error_handler('Core\\Error::err...')
+#5 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 15
+[12-Feb-2020 11:28:32 UTC] PHP Warning:  set_error_handler() expects the argument (Core\Error::errorHandler) to be a valid callback in /home4/developer3holol/public_html/buildmvc/index.php on line 27
+[12-Feb-2020 11:28:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home4/developer3holol/public_html/buildmvc/index.php:15
+Stack trace:
+#0 [internal function]: {closure}('Config')
+#1 /home4/developer3holol/public_html/buildmvc/index.php(15): spl_autoload_call('Config')
+#2 [internal function]: {closure}('Core\\Error')
+#3 [internal function]: spl_autoload_call('Core\\Error')
+#4 /home4/developer3holol/public_html/buildmvc/index.php(27): set_error_handler('Core\\Error::err...')
+#5 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 15
+[12-Feb-2020 11:28:33 UTC] PHP Warning:  set_error_handler() expects the argument (Core\Error::errorHandler) to be a valid callback in /home4/developer3holol/public_html/buildmvc/index.php on line 27
+[12-Feb-2020 11:28:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home4/developer3holol/public_html/buildmvc/index.php:15
+Stack trace:
+#0 [internal function]: {closure}('Config')
+#1 /home4/developer3holol/public_html/buildmvc/index.php(15): spl_autoload_call('Config')
+#2 [internal function]: {closure}('Core\\Error')
+#3 [internal function]: spl_autoload_call('Core\\Error')
+#4 /home4/developer3holol/public_html/buildmvc/index.php(27): set_error_handler('Core\\Error::err...')
+#5 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 15
+[12-Feb-2020 11:29:10 UTC] PHP Warning:  set_error_handler() expects the argument (Core\Error::errorHandler) to be a valid callback in /home4/developer3holol/public_html/buildmvc/index.php on line 27
+[12-Feb-2020 11:29:10 UTC] PHP Warning:  set_exception_handler() expects the argument (Core\Error::exceptionHandler) to be a valid callback in /home4/developer3holol/public_html/buildmvc/index.php on line 28
+[12-Feb-2020 11:29:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 29
+[12-Feb-2020 11:29:47 UTC] PHP Warning:  set_error_handler() expects the argument (Core\Error::errorHandler) to be a valid callback in /home4/developer3holol/public_html/buildmvc/index.php on line 27
+[12-Feb-2020 11:29:47 UTC] PHP Warning:  set_exception_handler() expects the argument (Core\Error::exceptionHandler) to be a valid callback in /home4/developer3holol/public_html/buildmvc/index.php on line 28
+[12-Feb-2020 11:29:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 29
+[12-Feb-2020 11:29:49 UTC] PHP Warning:  set_error_handler() expects the argument (Core\Error::errorHandler) to be a valid callback in /home4/developer3holol/public_html/buildmvc/index.php on line 27
+[12-Feb-2020 11:29:49 UTC] PHP Warning:  set_exception_handler() expects the argument (Core\Error::exceptionHandler) to be a valid callback in /home4/developer3holol/public_html/buildmvc/index.php on line 28
+[12-Feb-2020 11:29:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 29
+[12-Feb-2020 11:29:50 UTC] PHP Warning:  set_error_handler() expects the argument (Core\Error::errorHandler) to be a valid callback in /home4/developer3holol/public_html/buildmvc/index.php on line 27
+[12-Feb-2020 11:29:50 UTC] PHP Warning:  set_exception_handler() expects the argument (Core\Error::exceptionHandler) to be a valid callback in /home4/developer3holol/public_html/buildmvc/index.php on line 28
+[12-Feb-2020 11:29:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 29
+[12-Feb-2020 11:29:51 UTC] PHP Warning:  set_error_handler() expects the argument (Core\Error::errorHandler) to be a valid callback in /home4/developer3holol/public_html/buildmvc/index.php on line 27
+[12-Feb-2020 11:29:51 UTC] PHP Warning:  set_exception_handler() expects the argument (Core\Error::exceptionHandler) to be a valid callback in /home4/developer3holol/public_html/buildmvc/index.php on line 28
+[12-Feb-2020 11:29:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 29
+[12-Feb-2020 11:29:51 UTC] PHP Warning:  set_error_handler() expects the argument (Core\Error::errorHandler) to be a valid callback in /home4/developer3holol/public_html/buildmvc/index.php on line 27
+[12-Feb-2020 11:29:51 UTC] PHP Warning:  set_exception_handler() expects the argument (Core\Error::exceptionHandler) to be a valid callback in /home4/developer3holol/public_html/buildmvc/index.php on line 28
+[12-Feb-2020 11:29:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 29
+[12-Feb-2020 11:30:09 UTC] PHP Notice:  Use of undefined constant DIR_SYSYTEM - assumed 'DIR_SYSYTEM' in /home4/developer3holol/public_html/buildmvc/index.php on line 15
+[12-Feb-2020 11:30:09 UTC] PHP Warning:  set_error_handler() expects the argument (Core\Error::errorHandler) to be a valid callback in /home4/developer3holol/public_html/buildmvc/index.php on line 28
+[12-Feb-2020 11:30:09 UTC] PHP Notice:  Use of undefined constant DIR_SYSYTEM - assumed 'DIR_SYSYTEM' in /home4/developer3holol/public_html/buildmvc/index.php on line 15
+[12-Feb-2020 11:30:09 UTC] PHP Warning:  set_exception_handler() expects the argument (Core\Error::exceptionHandler) to be a valid callback in /home4/developer3holol/public_html/buildmvc/index.php on line 29
+[12-Feb-2020 11:30:09 UTC] PHP Notice:  Use of undefined constant DIR_SYSYTEM - assumed 'DIR_SYSYTEM' in /home4/developer3holol/public_html/buildmvc/index.php on line 15
+[12-Feb-2020 11:30:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Core\Router' not found in /home4/developer3holol/public_html/buildmvc/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 30
+[12-Feb-2020 11:31:16 UTC] PHP Warning:  require_once(App/configs.php): failed to open stream: No such file or directory in /home4/developer3holol/public_html/buildmvc/index.php on line 2
+[12-Feb-2020 11:31:16 UTC] PHP Fatal error:  require_once(): Failed opening required 'App/configs.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home4/developer3holol/public_html/buildmvc/index.php on line 2
+[12-Feb-2020 11:31:17 UTC] PHP Warning:  require_once(App/configs.php): failed to open stream: No such file or directory in /home4/developer3holol/public_html/buildmvc/index.php on line 2
+[12-Feb-2020 11:31:17 UTC] PHP Fatal error:  require_once(): Failed opening required 'App/configs.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home4/developer3holol/public_html/buildmvc/index.php on line 2
+[12-Feb-2020 11:31:19 UTC] PHP Warning:  require_once(App/configs.php): failed to open stream: No such file or directory in /home4/developer3holol/public_html/buildmvc/index.php on line 2
+[12-Feb-2020 11:31:19 UTC] PHP Fatal error:  require_once(): Failed opening required 'App/configs.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home4/developer3holol/public_html/buildmvc/index.php on line 2
+[12-Feb-2020 11:31:41 UTC] PHP Warning:  set_error_handler() expects the argument (Core\Error::errorHandler) to be a valid callback in /home4/developer3holol/public_html/buildmvc/index.php on line 28
+[12-Feb-2020 11:31:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home4/developer3holol/public_html/buildmvc/index.php:15
+Stack trace:
+#0 [internal function]: {closure}('Config')
+#1 /home4/developer3holol/public_html/buildmvc/index.php(15): spl_autoload_call('Config')
+#2 [internal function]: {closure}('Core\\Error')
+#3 [internal function]: spl_autoload_call('Core\\Error')
+#4 /home4/developer3holol/public_html/buildmvc/index.php(28): set_error_handler('Core\\Error::err...')
+#5 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 15
+[12-Feb-2020 11:32:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home4/developer3holol/public_html/buildmvc/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 13
+[12-Feb-2020 11:32:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home4/developer3holol/public_html/buildmvc/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 13
+[12-Feb-2020 11:33:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home4/developer3holol/public_html/buildmvc/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 13
+[12-Feb-2020 11:34:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home4/developer3holol/public_html/buildmvc/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 13
+[12-Feb-2020 11:35:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home4/developer3holol/public_html/buildmvc/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 13
+[12-Feb-2020 11:35:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home4/developer3holol/public_html/buildmvc/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 13
+[12-Feb-2020 11:35:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home4/developer3holol/public_html/buildmvc/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 3
+[12-Feb-2020 11:35:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home4/developer3holol/public_html/buildmvc/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 3
+[12-Feb-2020 11:35:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home4/developer3holol/public_html/buildmvc/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 3
+[12-Feb-2020 11:35:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home4/developer3holol/public_html/buildmvc/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 3
+[12-Feb-2020 11:35:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home4/developer3holol/public_html/buildmvc/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 3
+[12-Feb-2020 11:35:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home4/developer3holol/public_html/buildmvc/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 3
+[12-Feb-2020 11:35:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home4/developer3holol/public_html/buildmvc/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 3
+[12-Feb-2020 11:35:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home4/developer3holol/public_html/buildmvc/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 3
+[12-Feb-2020 11:35:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home4/developer3holol/public_html/buildmvc/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 3
+[12-Feb-2020 11:35:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home4/developer3holol/public_html/buildmvc/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 3
+[12-Feb-2020 11:35:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home4/developer3holol/public_html/buildmvc/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 3
+[12-Feb-2020 11:35:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home4/developer3holol/public_html/buildmvc/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 3
+[12-Feb-2020 11:35:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home4/developer3holol/public_html/buildmvc/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 3
+[12-Feb-2020 11:35:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home4/developer3holol/public_html/buildmvc/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 3
+[12-Feb-2020 11:35:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home4/developer3holol/public_html/buildmvc/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 3
+[12-Feb-2020 11:35:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home4/developer3holol/public_html/buildmvc/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 3
+[12-Feb-2020 11:35:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home4/developer3holol/public_html/buildmvc/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 3
+[12-Feb-2020 11:35:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home4/developer3holol/public_html/buildmvc/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 3
+[12-Feb-2020 11:36:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home4/developer3holol/public_html/buildmvc/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home4/developer3holol/public_html/buildmvc/index.php on line 14
+[12-Feb-2020 11:36:39 UTC] PHP Warning:  require_once(/App/config.php): failed to open stream: No such file or directory in /home4/developer3holol/public_html/buildmvc/index.php on line 2
+[12-Feb-2020 11:36:39 UTC] PHP Fatal error:  require_once(): Failed opening required '/App/config.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home4/developer3holol/public_html/buildmvc/index.php on line 2

@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css?family=Cairo:300,400,600,700&display=swap');
+body{
+  font-family: 'Cairo', sans-serif;
+}
+p{
+  font-family: 'Cairo', sans-serif;
+}
+/********************** Start Home Page **********************/
+#top .left-section {float: right;}
+#top .right-section {float: left;}
+#top .left-section .socials{float: right;padding-right: 0;padding-left: 15px;}
+#top .left-section .email{float: right;padding-left: 0;padding-right: 30px;}
+#top .left-section .email p i{margin-right: 0;margin-left: 10px;}
+#top .right-section .dropdown-menu {left: 0 !important;right: auto !important;}
+.navbar-light .navbar-nav .dropdown-toggle::after{vertical-align: top}
+.dropdown-menu a:hover {padding-right: 30px;padding-left: 10px;}
+.slick-slide{float: right}
+.slider-home .slick-dots li{margin-right: 0;margin-left: 10px}
+.advantages-home .item{text-align: right;}
+.advantages-home .item img{margin-right: 0;margin-left: 15px}
+
+.main-link i{margin-left: auto;margin-right: 5px}
+.fa-arrow-right,.fa-arrow-left,
+.fa-long-arrow-alt-left,.fa-long-arrow-alt-right{transform: rotate(180deg);-webkit-transform: rotate(180deg);-moz-transform: rotate(180deg);-ms-transform: rotate(180deg);}
+.fa-phone {transform: rotate(0);-webkit-transform: rotate(0);-moz-transform: rotate(0);-ms-transform: rotate(0);}
+
+.advantages-home .item.active:after{left: auto;right: -28px;background-position: top right}
+.services-home .tab-content .tab-pane .text h5{
+  margin-left: auto;
+  margin-right: -20px
+}
+.services-home .tab-content .tab-pane .text p{
+  margin-left: auto;
+  margin-right: -10px
+}
+.advantages-home .item:last-child{padding-left: 20px;padding-right: 40px;}
+.client-home .main-link{
+  float: left;
+}
+
+.blog-home figure.small h5{left: auto;right: 20px;}
+.blog-page .blog-others .box .text{padding: 15px 0 15px 15px}
+.blog-home figure figcaption .date{right: auto;left: 28px;}
+.partners-home .main-link{float: left}
+.contacts-home .left-side .contact-title1{right: auto;left: 25%}
+.contacts-home .left-side .contact-title2{
+  right: auto;
+  left: 15%;
+  transform: rotate(-270deg);
+  -webkit-transform: rotate(-270deg);
+  -moz-transform: rotate(-270deg);
+  -ms-transform: rotate(-270deg);
+}
+.contacts-home .right-side .tab-content .tab-pane{border-left: 0;border-right: 10px solid #E71B22}
+.contacts-home .right-side .tab-content{left: auto;right: -10%;float: right;}
+.contacts-home .right-side .nav-pills{right: auto;left: 50px;}
+.contacts-home .right-side .nav-pills .nav-link.active:after{
+  left: auto;
+  right: -40px;
+  transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+}
+.contacts-home .right-side .text{padding-left: 0;padding-right: 30px;}
+.contacts-home .right-side .text:after{left: auto;right: -90px;}
+.contacts-home .right-side .nav-pills .nav-link ul li i{margin-right: 0;margin-left: 10px;}
+.contacts-home .right-side .nav-pills .nav-link ul li span{font-family: 'Cairo', sans-serif;}
+
+ul.contact-details li i{margin-right: 0;margin-left: 10px;}
+footer .f-social{float: left;}
+footer .f-social li{margin-right: 0;margin-left: 10px;}
+
+/********************** Start Clients Page **********************/
+
+.breadcrumb .breadcrumb-item{float: none !important}
+.breadcrumb-item+.breadcrumb-item::before{padding-right: 0;padding-left: .5rem}
+.SideBar .filter .heading .filter-head{float: right;}
+.SideBar .filter .heading .btn{float: left;}
+.SideBar .filter .pretty label:before, .SideBar .filter .pretty label:after{
+  left: 0;
+  right: auto;
+}
+
+/********************** Start Blog Page **********************/
+.blog-page .blog-others .box .text .link .main-link{float: left;}
+.blog-page .blog-others .box figure .date{left: auto;right: 28px}
+
+/********************** Start Blog Details Page **********************/
+.blog-details-page .box .link .main-link{float: left;}
+
+/********************** Start Contact Page **********************/
+.form-contact .link .main-link {float: left;}
+.form-contact .form-group label.error:before{float: right;}
+
+/********************** Start Service Page **********************/
+.services-home .tab-content .tab-pane .image{float: right;}
+.services-home .tab-content .tab-pane .text{float: left;}
+.services-home .tab-content .tab-pane .image .overlay{right: auto;;left: 0}
+.services-home .tab-content .tab-pane .text .main-link{float: left;}
+.services-home .tab-content .tab-pane .details li{padding-left: 0;padding-right: 15px;}
+.services-home .tab-content .tab-pane .details li:before{left: auto;right: 0}
+.service-page .services-home .tab-content .tab-pane .text h5{
+  margin-left: auto;
+  margin-right: 0
+}
+.service-page .services-home .tab-content .tab-pane .text p{
+  margin-left: auto;
+  margin-right: 0
+}
+
+/********************** Start Service Details Page **********************/
+.service-details-page ul.details li{padding-left: 0;padding-right: 15px;}
+
+.service-details-page ul.details li:before{left: auto;right: 0}
+
+/***** fonts *****/
+.navbar-light .navbar-nav .nav-link,
+h1,h2,h3,h4,h5,h6,
+.slider-home .item figure figcaption p,footer .f-privacy p,
+.SideBar .filter .heading .filter-head,
+.SideBar .filter .heading .btn{
+  font-family: 'Cairo', sans-serif;
+  font-weight: 600
+}
+
+.heading-title h2,.advantages-home .item p,
+.slider-home .item figure figcaption .h1,.contacts-home .right-side .nav-pills .nav-link h2,
+.contact-page .map-section .nav-pills .nav-link h2{
+  font-family: 'Cairo', sans-serif;
+  font-weight: 700
+}
+
+/* Modal */
+.partnerModal .modal-dialog .close{
+  right: auto;
+  left: 10px;
+}
+
+.scrollToTop{right: auto !important;left: 40px}
+
+/* responsive rtl */
+.contacts-home .right-side .nav-pills .nav-link{float: right !important;width: 100%;}
+@media (max-width: 991.98px) and (min-width: 767.98px){
+  .contacts-home .right-side .nav-pills {
+      right: auto !important;
+      left: 0
+    }
+}
+@media (max-width: 767.98px) and (min-width: 575.98px){
+  .contact-page .map-section .nav-pills .nav-link {
+      float: right !important;
+  }
+  footer .f-social li{
+    margin-right: 0 !important;
+    margin-left: 5px;
+  }
+}
+@media (max-width: 575.98px){
+  .contact-page .map-section .nav-pills .nav-link {
+      float: right !important;
+  }
+}

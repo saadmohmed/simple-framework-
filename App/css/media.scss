@@ -1,0 +1,1103 @@
+
+$break-small: 575.98px;
+$break-medium: 767.98px;
+$break-large: 991.98px;
+$break-xlarge: 1199.98px;
+
+// colors
+$main-color: #E71B22;
+$text-color: #707070;
+$default-color: #000;
+$white-color: #fff;
+
+// fonts size
+$font-vsmall: 12px;
+$font-small: 13px;
+$font-default: 14px;
+$font-medium: 15px;
+$font-large: 16px;
+$font-vlarge: 18px;
+
+@media(min-width:$break-large)and(max-width:$break-xlarge){
+  /************************* Start Home Page *************************/
+  /***** Start Services *****/
+  .services-home{
+     .nav-tabs{
+        .nav-item{
+          width: 24%;
+          .nav-link{
+            h5{
+              min-height: 65px;
+            }
+          }
+        }
+     }
+   }
+
+   /************************* Start Blog Page *************************/
+   .blog-page{
+     .blog-others{
+        .box{
+           figure{
+             img{
+               height: 185px;
+               object-fit: cover;
+             }
+           }
+           .text{
+             h2{
+               font-size: 45px;
+               a{
+                 font-size: 45px;
+               }
+             }
+           }
+        }
+     }
+   }
+   /************************* Start Contact Page *************************/
+   .contact-page{
+     .map-section{
+        .nav-pills{
+           .nav-link{
+             ul{
+               li{
+                 span{
+                   font-size: $font-default
+                 }
+                 a{
+                   font-size: $font-default
+                 }
+               }
+             }
+           }
+        }
+     }
+   }
+}
+
+
+@media(min-width:$break-medium)and(max-width:$break-large){
+  /************************* Start Home Page *************************/
+  #top{
+    .dropdown-menu{
+      left: auto !important;
+      right: 0 !important
+    }
+  }
+  /***** Start Navbar *****/
+  .navbar-light{
+     .navbar-nav{
+       background-color: #f8f8f8;
+       border-top: 4px solid $main-color;
+       .nav-link{
+         padding: 10px 15px;
+         &:before{
+           content: none;
+         }
+       }
+     }
+  }
+  /***** Start Slider *****/
+  .slider-home{
+     .item{
+       figure{
+         img{
+           height: 450px;
+           object-fit: cover;
+         }
+          figcaption{
+            max-width: 70%;
+             .h1{
+               font-size: 40px
+             }
+          }
+       }
+     }
+     .slick-arrow{
+       width: 15px;
+       height: 28px;
+       img{
+         width: 15px
+       }
+       &.slick-next{
+         right: 10px;
+       }
+       &.slick-prev{
+         left: 10px;
+       }
+     }
+  }
+  /***** Start Services *****/
+  .services-home{
+     .nav-tabs{
+        .nav-item{
+          width: 24%;
+          .nav-link{
+            h5{
+              min-height: 65px;
+
+            }
+          }
+        }
+     }
+     .tab-content{
+        .tab-pane{
+          .image{
+            img{
+              height: 180px;
+              object-fit: cover;
+            }
+          }
+           .text{
+              h5{
+                font-size: $font-vlarge
+              }
+              p{
+                font-size: $font-default
+              }
+           }
+        }
+     }
+  }
+  /***** Start Blog *****/
+  .blog-home{
+     figure{
+       &.small{
+         img{
+           height: 170px;
+           object-fit: cover;
+         }
+         h5{
+           max-height: 55px;
+           overflow: hidden;
+         }
+       }
+     }
+  }
+  /****** Start Contacts *****/
+  .contacts-home{
+    .left-side{
+      img{
+        height: 450px;
+      }
+      .contact-title2{
+        padding: 70px 20px 0;
+        top: 75px;
+      }
+
+    }
+    .right-side{
+      .nav-pills{
+        right: 0;
+      }
+      .tab-content{
+        left: auto;
+        right: auto;
+      }
+
+    }
+  }
+  /***** Start pageContent *****/
+  .topHeader{
+     figure{
+        img{
+          height: 395px
+        }
+        figcaption{
+          top: 35%;
+          max-width: 100%;
+          padding: 0 15px;
+          p{
+            max-height: 100px;
+            overflow: hidden;
+          }
+        }
+     }
+  }
+
+  /************************* Start Blog Page *************************/
+  .blog-page{
+    .blog-others{
+       .box{
+          figure{
+            img{
+              height: 170px;
+              object-fit: cover;
+            }
+          }
+          .text{
+            h2{
+              font-size: 35px;
+              a{
+                font-size: 35px;
+              }
+            }
+          }
+       }
+    }
+  }
+  /************************* Start Blog Details Page *************************/
+  .blog-details-page{
+    .box{
+      h3{
+        font-size: $font-large;
+        a{
+          font-size: $font-large;
+        }
+      }
+      .link{
+        .main-link{
+          font-size: $font-large;
+        }
+      }
+    }
+  }
+  /************************* Start Contact Page *************************/
+  .contact-page{
+    .map-section{
+       .nav-pills{
+          .nav-link{
+            h2{
+              font-size: $font-vlarge;
+            }
+            ul{
+              li{
+                span{
+                  font-size: $font-default
+                }
+                a{
+                  font-size: $font-default
+                }
+              }
+            }
+          }
+       }
+    }
+  }
+}
+
+
+@media(min-width:$break-small)and(max-width:$break-medium){
+  /************************* Start Home Page *************************/
+  .main-link{
+    font-size: $font-vlarge
+  }
+  #top{
+    display: none;
+  }
+  /***** Start Navbar *****/
+  .navbar-light{
+     .navbar-nav{
+       background-color: #f8f8f8;
+       border-top: 4px solid $main-color;
+       .nav-link{
+         padding: 10px 15px;
+         &:before{
+           content: none;
+         }
+       }
+     }
+  }
+  /***** Start Slider *****/
+  .slider-home{
+     .item{
+       figure{
+         img{
+           height: 380px;
+           object-fit: cover;
+         }
+          figcaption{
+            max-width: 70%;
+             .h1{
+               font-size: 35px
+             }
+             p{
+               font-size: $font-default;
+               span{
+                 font-size: $font-default
+               }
+             }
+          }
+       }
+     }
+     .slick-arrow{
+       width: 15px;
+       height: 28px;
+       img{
+         width: 15px
+       }
+       &.slick-next{
+         right: 10px;
+       }
+       &.slick-prev{
+         left: 10px;
+       }
+     }
+  }
+  /***** Start Advantages *****/
+  .advantages-home{
+    margin: -50px auto 100px;
+    padding: 0 15px;
+    .item{
+      width: 100%;
+      display: block;
+      margin-bottom: 10px;
+      &.active{
+        transform: scale(1);
+        padding: 20px;
+        img{
+          transform: scale(1);
+          width: 58px
+        }
+      }
+    }
+  }
+  /***** Start Services *****/
+  .services-home{
+     .nav-tabs{
+       display: initial;
+       .nav-item{
+         width: 100%;
+         margin-bottom: 5px;
+       }
+     }
+     .tab-content{
+        .tab-pane{
+           .image{
+             float: none;
+             width: 100%
+           }
+           .text{
+             float: none;
+             width: 100%;
+             h5{
+               margin-left: 0;
+               margin-right: 0
+             }
+             p{
+               margin-left: 0;
+               margin-right: 0
+             }
+           }
+        }
+     }
+  }
+  /***** Start blogs *****/
+  .blog-home{
+    figure{
+      &.big{
+        img{
+          height: auto;
+        }
+      }
+    }
+  }
+  /***** Start partners *****/
+  .partners-home{
+     .image{
+       margin-bottom: 40px
+     }
+  }
+  /***** Start Contacts *****/
+  .contacts-home{
+    .right-side{
+      background-color: $white-color;
+      padding: 0;
+      .info{
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        width: 90%;
+        top: -60px;
+        background-color: #f8f8f8;
+        z-index: 2;
+        padding: 20px 15px;
+        .text{
+          margin: 0;
+          padding: 0;
+          max-height: 70px;
+          overflow: hidden;
+          &:after{
+            content: none;
+          }
+        }
+      }
+       .tab-content{
+         float: none;
+         width: 100%;
+         left: auto;
+         right: auto
+       }
+       .nav-pills{
+         position: relative;
+         left: auto;
+         right: auto;
+         width: auto;
+         .nav-link{
+           text-align: center;
+           width: 33.333%;
+           float: left;
+           border: 0;
+           border-radius: 0;
+           &.active{
+             &:after{
+               left: 0;
+               right: 0;
+               margin: 0 auto;
+               top: -28px;
+               transform: rotate(90deg);
+               -webkit-transform: rotate(90deg);
+               -moz-transform: rotate(90deg);
+               -ms-transform: rotate(90deg);
+               width: 70px;
+               height: 70px;
+             }
+             ul{
+               // display: block
+             }
+           }
+           h2{
+             font-size: $font-large;
+             margin-bottom: 0
+           }
+           ul{
+             li{
+               font-size: $font-default;
+               span{
+                 font-size: $font-default;
+               }
+               a{
+                 font-size: $font-default;
+               }
+             }
+           }
+         }
+       }
+       .tab-content{
+         height: auto;
+         min-height: 0;
+         .tab-pane{
+           height: auto;
+           border-left: 0;
+           border-right: 0;
+           border-top: 10px solid $main-color;
+           img,iframe{
+             height: 250px !important;
+             width: 100%;
+             min-width: 100%;
+           }
+         }
+       }
+    }
+    .left-side{
+      img{
+        height: 450px;
+      }
+      .contact-title2{
+        padding: 70px 20px 0;
+        top: 50px;
+      }
+
+    }
+  }
+  ul.contact-details{
+    padding: 25px 15px;
+    background-color: #f2f2f2;
+  }
+  .mobile-tab{
+    .tab-pane{
+      border-top: 0 !important
+    }
+  }
+  /***** Start Footer *****/
+  footer{
+    .f-logo{
+      img{
+        margin: 0 auto;
+      }
+    }
+    .f-privacy{
+      padding: 70px 0
+    }
+    .f-social{
+      float: none;
+      text-align: center;
+      li{
+        margin-right: 5px;
+        i{
+          width: 30px;
+          height: 30px;
+          line-height: 30px;
+        }
+      }
+    }
+  }
+  /***** Start pageContent *****/
+  .topHeader{
+     figure{
+        img{
+          height: 300px
+        }
+        figcaption{
+          top: 35%;
+          max-width: 100%;
+          padding: 0 15px;
+          p{
+            display: none;
+          }
+        }
+     }
+  }
+  p.text{
+    font-size: $font-default !important
+  }
+
+  /************************* Start Blog Page *************************/
+  .blog-page{
+    .blog-others{
+       .box{
+          figure{
+            img{
+              height: auto;
+              object-fit: cover;
+            }
+          }
+          .text{
+            padding: 15px;
+            h2{
+              font-size: 24px;
+              max-width: 70%;
+              float: left;
+              a{
+                font-size: 24px;
+              }
+            }
+          }
+       }
+    }
+  }
+  /************************* Start Blog Details Page *************************/
+  .blog-details-page{
+    .headline{
+      text-transform: uppercase;
+      margin: 20px 0;
+    }
+    .main-img{
+      margin-bottom: 20px;
+    }
+    .box{
+      text-align: center;
+      h3{
+        font-size: $font-large;
+        a{
+          font-size: $font-large;
+        }
+      }
+      .link{
+        .main-link{
+          font-size: $font-large;
+          float: none
+        }
+      }
+    }
+  }
+  /************************* Start service Details Page *************************/
+  .service-details-page{
+    .headline{
+      h2{
+        font-size: 20px
+      }
+    }
+    ul{
+      &.details{
+        li{
+          font-size: $font-default
+        }
+      }
+    }
+  }
+  /************************* Start Contact Page *************************/
+  .contact-page{
+    .map-section{
+      margin-bottom: 50px;
+      .nav-desktop{
+        display: none;
+      }
+       .nav-pills{
+          .nav-link{
+            float: left;
+            padding: 20px 15px;;
+            border: 0;
+            background: $white-color;
+            text-align: center;
+            h2{
+              font-size: $font-vlarge;
+              margin-bottom: 0;
+            }
+          }
+       }
+       .tab-content{
+         .tab-pane{
+           img,iframe{
+             height: auto !important
+           }
+         }
+       }
+       ul{
+         &.contact-details{
+           li{
+             font-size: $font-default;
+             span{
+               font-size: $font-default
+             }
+             a{
+               font-size: $font-default
+             }
+           }
+         }
+       }
+    }
+  }
+  .form-contact{
+    .title{
+      h3{
+        font-size: $font-vlarge;
+      }
+    }
+    .form-group{
+      label{
+        font-size: $font-default
+      }
+      textarea{
+        max-height: 100px;
+      }
+    }
+  }
+}
+
+@media(max-width:$break-small){
+  /************************* Start Home Page *************************/
+  .main-link{
+    font-size: $font-vlarge
+  }
+  #top{
+    display: none;
+  }
+  /***** Start Navbar *****/
+  .navbar-light{
+     .navbar-nav{
+       background-color: #f8f8f8;
+       border-top: 4px solid $main-color;
+       .nav-link{
+         padding: 10px 15px;
+         &:before{
+           content: none;
+         }
+       }
+     }
+  }
+  /***** Start Slider *****/
+  .slider-home{
+     .item{
+       figure{
+         img{
+           height: 380px;
+           object-fit: cover
+         }
+          figcaption{
+            max-width: 70%;
+             .h1{
+               font-size: 35px
+             }
+             p{
+               font-size: $font-vsmall;
+               span{
+                 font-size: $font-vsmall
+               }
+             }
+          }
+       }
+     }
+     .slick-arrow{
+       width: 15px;
+       height: 28px;
+       img{
+         width: 15px
+       }
+       &.slick-next{
+         right: 10px;
+       }
+       &.slick-prev{
+         left: 10px;
+       }
+     }
+  }
+  /***** Start Advantages *****/
+  .advantages-home{
+    margin: -50px auto 100px;
+    padding: 0 15px;
+    .item{
+      width: 100%;
+      display: block;
+      margin-bottom: 10px;
+      &.active{
+        transform: scale(1);
+        padding: 20px;
+        img{
+          transform: scale(1);
+          width: 58px
+        }
+      }
+    }
+  }
+  /***** Start Services *****/
+  .services-home{
+     .nav-tabs{
+       display: initial;
+       .nav-item{
+         width: 100%;
+         margin-bottom: 5px;
+       }
+     }
+     .tab-content{
+        .tab-pane{
+           .image{
+             float: none;
+             width: 100%
+           }
+           .text{
+             float: none;
+             width: 100%;
+             h5{
+               margin-left: 0;
+               margin-right: 0
+             }
+             p{
+               margin-left: 0;
+               margin-right: 0
+             }
+           }
+           .details{
+             li{
+               font-size: $font-default;
+               a{
+                 font-size: $font-default
+               }
+             }
+           }
+        }
+     }
+  }
+  /***** Start blogs *****/
+  .blog-home{
+    figure{
+      &.big{
+        img{
+          height: auto;
+        }
+      }
+    }
+  }
+  /***** Start partners *****/
+  .partners-home{
+     .image{
+       margin-bottom: 40px
+     }
+  }
+  /***** Start Contacts *****/
+  .contacts-home{
+    .right-side{
+      background-color: $white-color;
+      padding: 0;
+      .info{
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        width: 90%;
+        top: -60px;
+        background-color: #f8f8f8;
+        z-index: 2;
+        padding: 20px 15px;
+        .text{
+          margin: 0;
+          padding: 0;
+          max-height: 70px;
+          overflow: hidden;
+          &:after{
+            content: none;
+          }
+        }
+      }
+       .tab-content{
+         float: none;
+         width: 100%;
+         left: auto;
+         right: auto
+       }
+       .nav-pills{
+         position: relative;
+         left: auto;
+         right: auto;
+         width: auto;
+         .nav-link{
+           text-align: center;
+           width: 33.333%;
+           float: left;
+           border: 0;
+           border-radius: 0;
+           &.active{
+             &:after{
+               left: 0;
+               right: 0;
+               margin: 0 auto;
+               top: -28px;
+               transform: rotate(90deg);
+               -webkit-transform: rotate(90deg);
+               -moz-transform: rotate(90deg);
+               -ms-transform: rotate(90deg);
+               width: 70px;
+               height: 70px;
+             }
+             ul{
+               // display: block
+             }
+           }
+           h2{
+             font-size: $font-large;
+             margin-bottom: 0
+           }
+           ul{
+             li{
+               font-size: $font-default;
+               span{
+                 font-size: $font-default;
+               }
+               a{
+                 font-size: $font-default;
+               }
+             }
+           }
+         }
+       }
+       .tab-content{
+         height: auto;
+         min-height: 0;
+         .tab-pane{
+           height: auto;
+           border-left: 0;
+           border-right: 0;
+           border-top: 10px solid $main-color;
+           img,iframe{
+             height: 250px !important;
+             width: 100%;
+             min-width: 100%;
+           }
+         }
+       }
+    }
+    .left-side{
+      img{
+        height: 450px;
+      }
+      .contact-title1{
+        right: 10%;
+      }
+      .contact-title2{
+        right: 0;
+        padding: 70px 20px 0;
+        top: 50px;
+      }
+
+    }
+  }
+  ul.contact-details{
+    padding: 25px 15px;
+    background-color: #f2f2f2;
+  }
+  .mobile-tab{
+    .tab-pane{
+      border-top: 0 !important
+    }
+  }
+  /***** Start Footer *****/
+  footer{
+    .f-logo{
+      img{
+        margin: 0 auto;
+      }
+    }
+    .f-privacy{
+      padding: 70px 0
+    }
+    .f-social{
+      float: none;
+      text-align: center;
+    }
+  }
+  /***** Start pageContent *****/
+  .topHeader{
+     figure{
+        img{
+          height: 200px
+        }
+        figcaption{
+          top: 25%;
+          max-width: 100%;
+          padding: 0 15px;
+          p{
+            display: none;
+          }
+        }
+     }
+  }
+  p.text , p{
+    font-size: $font-default !important
+  }
+  /************************* Start Blog Page *************************/
+  .blog-page{
+    .blog-others{
+       .box{
+          figure{
+            img{
+              height: auto;
+              object-fit: cover;
+            }
+          }
+          .text{
+            text-align: center;
+            padding: 15px;
+            h2{
+              font-size: $font-large;
+              a{
+                font-size: $font-large;
+              }
+            }
+            .link{
+              .main-link{
+                font-size: $font-large;
+                float: none
+              }
+            }
+          }
+       }
+    }
+  }
+  /************************* Start Blog Details Page *************************/
+  .blog-details-page{
+    .headline{
+      text-transform: uppercase;
+      margin: 20px 0;
+    }
+    .main-img{
+      margin-bottom: 20px;
+    }
+    .box{
+      text-align: center;
+      h3{
+        font-size: $font-large;
+        a{
+          font-size: $font-large;
+        }
+      }
+      .link{
+        .main-link{
+          font-size: $font-large;
+          float: none
+        }
+      }
+    }
+  }
+
+  /************************* Start Partner Page *************************/
+  .partner-page{
+    figure{
+      margin-bottom: 20px;
+      border: 1px solid #eee;
+      padding: 20px 10px;
+      box-shadow: 0 0 2px #eee;
+    }
+  }
+
+  /************************* Start service Details Page *************************/
+  .service-details-page{
+    .headline{
+      h2{
+        font-size: $font-large
+      }
+    }
+    ul{
+      &.details{
+        li{
+          font-size: $font-default
+        }
+      }
+    }
+  }
+  /************************* Start Contact Page *************************/
+  .contact-page{
+    .map-section{
+      margin-bottom: 50px;
+      .nav-desktop{
+        display: none;
+      }
+       .nav-pills{
+          .nav-link{
+            float: left;
+            padding: 20px 15px;;
+            border: 0;
+            background: $white-color;
+            text-align: center;
+            h2{
+              font-size: $font-vlarge;
+              margin-bottom: 0;
+            }
+            &.active{
+              &:before{
+                width: 70px;
+                height: 70px;
+              }
+            }
+          }
+       }
+       .tab-content{
+         .tab-pane{
+           img,iframe{
+             height: auto !important
+           }
+         }
+       }
+       ul{
+         &.contact-details{
+           li{
+             font-size: $font-default;
+             span{
+               font-size: $font-default
+             }
+             a{
+               font-size: $font-default
+             }
+           }
+         }
+       }
+    }
+  }
+  .form-contact{
+    .title{
+      h3{
+        font-size: $font-vlarge;
+      }
+    }
+    .form-group{
+      label{
+        font-size: $font-default
+      }
+      textarea{
+        max-height: 100px;
+      }
+    }
+  }
+
+}
